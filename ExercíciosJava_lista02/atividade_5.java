@@ -28,7 +28,7 @@ public class atividade_5 {
 
             if (tentativa == numeroAleatorio) {
                 System.out.println("ACERTOU!");
-                break; // Sai do laço quando o número é acertado
+                break;
             } else if (tentativa < numeroAleatorio) {
                 System.out.println("MAIOR");
             } else {
